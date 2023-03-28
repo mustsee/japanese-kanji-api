@@ -1,4 +1,4 @@
-import kanji from "../../../data/kanji.json";
+import kanji from "../../../data/kanji";
 
 export const get = ({ params, request }) => {
   const id = params.id;
