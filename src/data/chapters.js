@@ -19,4 +19,15 @@ const chapters = {
   } 
 }
 
-export default chapters;
+const chaptersList = {
+  "1": {
+    "name": "Nombres",
+    "method": "rtk",
+  },
+  "2": {
+    "name": "Premières impressions",
+    "method": "rtk",
+  } 
+}
+
+export { chapters, chaptersList };

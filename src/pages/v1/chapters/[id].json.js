@@ -1,4 +1,4 @@
-import chapters from "../../../data/chapters";
+import { chapters } from "../../../data/chapters";
 
 export const get = ({ params, request }) => {
   const id = params.id;
