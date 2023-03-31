@@ -435,26 +435,6 @@ const kanji = {
       EN: [],
     },
     elements: {
-      FR: ["lune"],
-      EN: [],
-    },
-    summary: {
-      FR: "",
-      EN: "",
-    },
-    src: "https://hochanh.github.io/rtk/朋/index.html",
-  },
-  朋: {
-    kanji: "朋",
-    readings: {
-      onyomi: [],
-      kunyomi: [],
-    },
-    meanings: {
-      FR: ["compagnon"],
-      EN: [],
-    },
-    elements: {
       FR: ["chair"],
       EN: [],
     },
@@ -551,7 +531,7 @@ const kanji = {
       kunyomi: [],
     },
     meanings: {
-      FR: ["épine"],
+      FR: ["épine dorsale"],
       EN: [],
     },
     elements: {
@@ -583,7 +563,223 @@ const kanji = {
       EN: "",
     },
     src: "https://hochanh.github.io/rtk/昌/index.html",
-  }
+  },
+  早: {
+    kanji: "早",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["tôt"],
+      EN: [],
+    },
+    elements: {
+      FR: ["soleil", "aiguille"],
+      EN: [],
+    },
+    primitives: {
+      FR: ["tournesol"],
+      EN: [],
+    },
+    summary: {
+      FR: "tôt, le tournesol est la première fleur à éclore le matin",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/早/index.html",
+  },
+  旭: {
+    kanji: "旭",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["soleil levant"],
+      EN: [],
+    },
+    elements: {
+      FR: ["nouveau", "soleil"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "Le soleil juché sur l'élément neuf. Cette élément propulse chaque matin dans les airs un nouveau soleil levant.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/旭/index.html",
+  },
+  世: {
+    kanji: "世",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["génération", "société", "monde"],
+      EN: [],
+    },
+    elements: {
+      FR: ["dix"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "On considère qu'une génération correspond à peu près à une période de trente années. Dans ce kanji on peut voir trois dix.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/世/index.html",
+  },
+  胃: {
+    kanji: "胃",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["estomac"],
+      EN: [],
+    },
+    elements: {
+      FR: ["cerveau", "partie du corps"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "La partie du corps qui conserve le cerveau en fonctionnement est l'estomac.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/胃/index.html",
+  },
+  旦: {
+    kanji: "旦",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["point du jour"],
+      EN: [],
+    },
+    elements: {
+      FR: ["plancher", "soleil"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "Le trait du bas représente le plancher de l'horizon, au-dessus duquel le soleil pointe, et cela se reproduit immanquablement chaque matin, au point du jour.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/旦/index.html",
+  },
+  胆: {
+    kanji: "胆",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["vésicule biliaire"],
+      EN: [],
+    },
+    elements: {
+      FR: ["partie du corps", "point du jour"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "Quelqu'un est bilieux si dès le réveil son anxiété est réveillée par le fiel que renferme la vésicule biliaire. La partie du corps susceptible de manifester son existence dès le point du jour est la vésicule biliaire.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/胆/index.html",
+  },
+  亘: {
+    kanji: "亘",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["temps qui passe"],
+      EN: [],
+    },
+    elements: {
+      FR: ["plancher", "soleil", "plafond"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "On voit le trajet du soleil, s'élevant au dessus de l'horizon (le plancher) pour atteindre le zénith (le plafond) puis disparaître sous l'horizon, marquant le temps qui passe au fil des jours.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/亘/index.html",
+  },
+  凹: {
+    kanji: "凹",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["concave"],
+      EN: [],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/凹/index.html",
+  },
+  凸: {
+    kanji: "凸",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["convexe"],
+      EN: [],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/凸/index.html",
+  },
 }
 
 export default kanji;
