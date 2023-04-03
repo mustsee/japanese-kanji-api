@@ -16,7 +16,11 @@ const chapters = {
   "2": {
     "name": "Premières impressions",
     "kanji": getKanji(["古", "吾", "冒", "朋", "明", "唱", "晶", "品", "呂", "昌", "早", "旭", "世", "胃", "旦", "胆", "亘", "凹", "凸"])
-  } 
+  } ,
+  "3": {
+    "name": "Le bâton de marche et la goutte",
+    "kanji": getKanji(["旧", "自", "白", "百", "中", "千"])
+  }
 }
 
 const chaptersList = {
@@ -26,6 +30,10 @@ const chaptersList = {
   },
   "2": {
     "name": "Premières impressions",
+    "method": "rtk",
+  },
+  "3": {
+    "name": "Le bâton de marche et la goutte",
     "method": "rtk",
   } 
 }

@@ -780,6 +780,150 @@ const kanji = {
     },
     src: "https://hochanh.github.io/rtk/凸/index.html",
   },
+  旧: {
+    kanji: "旧",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["ancien temps"],
+      EN: [],
+    },
+    elements: {
+      FR: ["canne", "jour"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "On a besoin d'une canne pour les jours anciens",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/旧/index.html",
+  },
+  自: {
+    kanji: "自",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["soi-même"],
+      EN: [],
+    },
+    elements: {
+      FR: ["goutte", "yeux"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "Cette petite goutte est une représentation symbolique du nez placé entre nos deux yeux. Pour se désigner, plutôt que de pointer leur propre abdomen, comme nous le faisons, les Asiatiques ont coutume de placer l'index sur leur nez, nous fournissant ainsi un moyen simple pour mémoriser le kanji soi-même.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/自/index.html",
+  },
+  白: {
+    kanji: "白",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["blanc"],
+      EN: [],
+    },
+    elements: {
+      FR: ["goutte", "soleil"],
+      EN: [],
+    },
+    primitives: {
+      FR: ["oiseau blanc, colombe"],
+      EN: [],
+    },
+    summary: {
+      FR: "La couleur blanche est le mélange de toutes les couleurs. La goutte peut-être le prisme à laquelle on regarde la lumière du soleil, faisant apparaître les couleurs de l'arc-en-ciel.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/白/index.html",
+  },
+  百: {
+    kanji: "百",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["cent"],
+      EN: [],
+    },
+    elements: {
+      FR: ["un", "goutte", "soleil"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "Les japonais qualifient d'année blanche celle du 99ème anniversaire, car blanc est ce qui reste si l'on retire un au kanji qui signifie cent.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/百/index.html",
+  },
+  中: {
+    kanji: "中",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["dedans"],
+      EN: [],
+    },
+    elements: {
+      FR: ["canne", "bouche"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "Repensez au mal qu'avait votre mère pour vous faire avaler une cuillère d'huile de foie de morue. Elle a plusieurs fois pensé à prendre la canne de Papi pour vous la mettre dans la bouche pour qu'elle reste ouverte.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/中/index.html",
+  },
+  千: {
+    kanji: "千",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["mille"],
+      EN: [],
+    },
+    elements: {
+      FR: ["goutte", "dix"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/千/index.html",
+  },
 }
 
 export default kanji;
