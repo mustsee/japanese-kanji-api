@@ -33,7 +33,7 @@ Les kanji se trouvent dans le fichier `kanji.js` situé dans le dossier `data/`.
 
 ## REST API
 
-Comme c'est une API statique, il est seulement possible de recevoir des données (GET), et il est impossible de réaliser une autre action (comme POST, PUT, DELETE).
+Comme c'est une API statique, il est seulement possible de recevoir des données (GET), et il est donc impossible de réaliser une autre action (POST, PATCH, PUT, DELETE).
 
 Le dossier `pages/v1/` abrite la première version (et pour l'instant unique) de l'API.
 
@@ -56,7 +56,13 @@ Pour accéder à l'API, l'URL de base est la suivante `https://www.mustsee.githu
 
 `GET /decks/rtk/[id].json`
 
-    https://mustsee.github.io/japanese-kanji-static-api/v1/decks/rtk/2.json
+    https://mustsee.github.io/japanese-kanji-static-api/v1/decks/rtk/premieres-impressions.json
+
+### Recevoir les kanji d'un deck CDJ
+
+`GET /decks/cdj/[id].json`
+
+    https://mustsee.github.io/japanese-kanji-static-api/v1/decks/cdj/nombres.json
 
 
 ## Astro
