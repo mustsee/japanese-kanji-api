@@ -39,27 +39,31 @@ const CDJDecks = {
 
 const decksList = [
   {
+    "id": "nombres",
+    "folder": "rtk",
     "name": "Nombres",
-    "method": "rtk",
+    "method": "RTK",
     "chapter": 1,
-    "route": "rtk/nombres",
   },
   {
+    "id": "premieres-impressions",
+    "folder": "rtk",
     "name": "Premières impressions",
-    "method": "rtk",
+    "method": "RTK",
     "chapter": 2,
-    "route": "rtk/premieres-impressions",
   },
   {
+    "id": "le-baton-de-marche-et-la-goutte",
+    "folder": "rtk",
     "name": "Le bâton de marche et la goutte",
-    "method": "rtk",
+    "method": "RTK",
     "chapter": 3,
-    "route": "rtk/le-baton-de-marche-et-la-goutte",
   },
   {
+    "id": "nombres",
     "name": "Nombres",
-    "method": "cdj",
-    "route": "cdj/nombres"
+    "folder": "cdj",
+    "method": "CDJ",
  }
 ]
 
