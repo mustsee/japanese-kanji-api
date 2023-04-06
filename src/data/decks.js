@@ -42,24 +42,24 @@ const decksList = [
     "name": "Nombres",
     "method": "rtk",
     "chapter": 1,
-    "route": "rtk/nombres.json",
+    "route": "rtk/nombres",
   },
   {
     "name": "Premières impressions",
     "method": "rtk",
     "chapter": 2,
-    "route": "rtk/premieres-impressions.json",
+    "route": "rtk/premieres-impressions",
   },
   {
     "name": "Le bâton de marche et la goutte",
     "method": "rtk",
     "chapter": 3,
-    "route": "rtk/le-baton-de-marche-et-la-goutte.json",
+    "route": "rtk/le-baton-de-marche-et-la-goutte",
   },
   {
     "name": "Nombres",
     "method": "cdj",
-    "route": "cdj/nombres.json"
+    "route": "cdj/nombres"
  }
 ]
 
