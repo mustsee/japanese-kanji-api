@@ -3,5 +3,5 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://mustsee.github.io',
-  base: '/japanese-kanji-api',
+  base: '/japanese-kanji-static-api',
 });

@@ -8,7 +8,7 @@ const getKanji = (chars) => {
   return res;
 }
 
-const chapters = {
+const decks = {
   "1": {
     "name": "Nombres",
     "kanji": getKanji(["一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "口", "日", "月", "田", "目"]),
@@ -23,7 +23,7 @@ const chapters = {
   }
 }
 
-const chaptersList = {
+const decksList = {
   "1": {
     "name": "Nombres",
     "method": "rtk",
@@ -38,4 +38,4 @@ const chaptersList = {
   } 
 }
 
-export { chapters, chaptersList };
+export { decks, decksList };
