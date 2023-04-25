@@ -80,10 +80,10 @@ const decksList = [
     "method": "CDJ",
  },
  {
-  "id": "n5",
-  "folder": "jlpt",
-  "name": "JLPT 5",
-  "method": "JLPT"
+    "id": "n5",
+    "folder": "jlpt",
+    "name": "JLPT N5",
+    "method": "JLPT"
  }
 ]
 

@@ -1045,7 +1045,7 @@ const kanji = {
     src: "https://hochanh.github.io/rtk/昇/index.html",
   },
   右: {
-    kanji: "昇",
+    kanji: "右",
     readings: {
       onyomi: [],
       kunyomi: [],
