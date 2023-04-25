@@ -924,6 +924,333 @@ const kanji = {
     },
     src: "https://hochanh.github.io/rtk/千/index.html",
   },
+  升: {
+    kanji: "升",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["boîte mesure"],
+      EN: [],
+    },
+    elements: {
+      FR: ["mille", "aiguille"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "Ce caractère décrit une mesure de 1,8039 l ainsi que la petite boîte que les Japonais utilisent en certaines occasions pour boire le saké. Comme les éléments mille et aiguille vous y invitent, imaginez la boîte garnie de mille aiguilles, et cette petite boîte anodine va devenir le cauchemar du buveur.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/升/index.html",
+  },
+  昇: {
+    kanji: "昇",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["s'élever"],
+      EN: [],
+    },
+    elements: {
+      FR: ["soleil", "boîte mesure"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "Imaginez-vous convié à des festivités japonaises qui dureraient jusqu'au matin. Vous voici donc portant un toast au soleil qui s'élève au loin, derrière la boîte à saké que vous brandissez.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/昇/index.html",
+  },
+  舌: {
+    kanji: "舌",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["langue"],
+      EN: [],
+    },
+    elements: {
+      FR: ["mille", "bouche"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "Il s'agit de l'organe. Mille et bouche conduisent naturellement à l'idée de langue.",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/舌/index.html",
+  },
+  丸: {
+    kanji: "丸",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["arrondi"],
+      EN: [],
+    },
+    elements: {
+      FR: ["neuf", "goutte"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "Lorsque l'on parle d'arrondir un nombre, on pense bien entendu à ajouter une quantité insignifiante pour atteindre la dizaine supérieure. Par exemple si l'on ajoute une petite goutte au nombre neuf, ",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/丸/index.html",
+  },
+  昇: {
+    kanji: "昇",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["s'élever"],
+      EN: [],
+    },
+    elements: {
+      FR: ["soleil", "boîte mesure"],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/昇/index.html",
+  },
+  右: {
+    kanji: "昇",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["droite"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/右/index.html",
+  },
+  雨: {
+    kanji: "雨",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["pluie"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/雨/index.html",
+  },
+  円: {
+    kanji: "円",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["cercle", "yen"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/円/index.html",
+  },
+  下: {
+    kanji: "下",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["au dessous"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/下/index.html",
+  },
+  火: {
+    kanji: "火",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["feu"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/火/index.html",
+  },
+  学: {
+    kanji: "学",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["étudier"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/学/index.html",
+  },
+  気: {
+    kanji: "気",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["esprit"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/気/index.html",
+  },
+  休: {
+    kanji: "休",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["repos"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/休/index.html",
+  },
+  金: {
+    kanji: "金",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["or"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/金/index.html",
+  },
 }
 
 export default kanji;
