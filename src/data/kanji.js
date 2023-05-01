@@ -1251,6 +1251,121 @@ const kanji = {
     },
     src: "https://hochanh.github.io/rtk/金/index.html",
   },
+  見: {
+    kanji: "見",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["regarder"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/見/index.html",
+  },
+  校: {
+    kanji: "校",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["examen"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/校/index.html",
+  },
+  左: {
+    kanji: "左",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["gauche"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/左/index.html",
+  },
+  山: {
+    kanji: "山",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["montagne"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/山/index.html",
+  },
+  子: {
+    kanji: "子",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["enfant"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/子/index.html",
+  },
 }
 
 export default kanji;
