@@ -1366,6 +1366,190 @@ const kanji = {
     },
     src: "https://hochanh.github.io/rtk/子/index.html",
   },
+  車: {
+    kanji: "車",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["voiture"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/車/index.html",
+  },
+  出: {
+    kanji: "出",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["sortir"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/出/index.html",
+  },
+  女: {
+    kanji: "女",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["femme"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/女/index.html",
+  },
+  小: {
+    kanji: "小",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["petit"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/小/index.html",
+  },
+  上: {
+    kanji: "上",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["au dessus"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/上/index.html",
+  },
+  人: {
+    kanji: "人",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["une personne"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/人/index.html",
+  },
+  水: {
+    kanji: "水",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["eau"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/人/index.html",
+  },
+  生: {
+    kanji: "生",
+    readings: {
+      onyomi: [],
+      kunyomi: [],
+    },
+    meanings: {
+      FR: ["vie"],
+    },
+    elements: {
+      FR: [],
+      EN: [],
+    },
+    primitives: {
+      FR: [],
+      EN: [],
+    },
+    summary: {
+      FR: "",
+      EN: "",
+    },
+    src: "https://hochanh.github.io/rtk/生/index.html",
+  },
 }
 
 export default kanji;
