@@ -1784,5 +1784,155 @@
       "EN": ""
     },
     "src": "https://hochanh.github.io/rtk/生/index.html"
+  },
+  "先": {
+    "kanji": "先",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "avant"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/先/index.html"
+  },
+  "川": {
+    "kanji": "川",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "rivière"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/川/index.html"
+  },
+  "大": {
+    "kanji": "大",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "grand"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/大/index.html"
+  },
+  "男": {
+    "kanji": "男",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "homme"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/男/index.html"
+  },
+  "天": {
+    "kanji": "天",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "cieux", "ciel"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/天/index.html"
+  },
+  "土": {
+    "kanji": "土",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "sol", "terre"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/土/index.html"
   }
 }
