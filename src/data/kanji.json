@@ -1934,5 +1934,155 @@
       "EN": ""
     },
     "src": "https://hochanh.github.io/rtk/土/index.html"
+  },
+  "入": {
+    "kanji": "入",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "entrer"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/入/index.html"
+  },
+  "年": {
+    "kanji": "年",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "année"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/年/index.html"
+  },
+  "本": {
+    "kanji": "本",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "livre"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/本/index.html"
+  },
+  "名": {
+    "kanji": "名",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "nom"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/名/index.html"
+  },
+  "木": {
+    "kanji": "木",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "arbre"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/木/index.html"
+  },
+  "何": {
+    "kanji": "何",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "quoi"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/何/index.html"
   }
 }
