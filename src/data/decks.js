@@ -58,6 +58,20 @@ const JLPTDecks = {
   }
 }
 
+const otherDecks = {
+  "date": {
+    "name": "Date",
+    /* 
+    Pour les jours de la semaine :
+    日月火水木金土曜
+    Pour le système solaire :
+    太陽天海冥王地球星
+    */
+    "kanji": getKanji(["日", "月", "火", "水", "木", "金", "土", "曜", "太", "陽", "天", "海", "冥", "王", "地", "球", "星"]),
+    "method": "other"
+  } 
+}
+
 const decksList = [
   {
     "id": "nombres",
@@ -91,8 +105,14 @@ const decksList = [
     "folder": "jlpt",
     "name": "JLPT N5",
     "method": "JLPT"
+ },
+ {
+  "id": "date",
+  "folder": "other",
+  "name": "Date",
+  "method": "Ohter"
  }
 ]
 
 
-export { RTKDecks, CDJDecks, JLPTDecks, decksList };
+export { RTKDecks, CDJDecks, JLPTDecks, otherDecks, decksList };

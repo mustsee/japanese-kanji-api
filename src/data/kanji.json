@@ -344,8 +344,8 @@
   "日": {
     "kanji": "日",
     "readings": {
-      "onyomi": [],
-      "kunyomi": []
+      "onyomi": ["ニチ"],
+      "kunyomi": ["ひ", "び"]
     },
     "meanings": {
       "FR": [
@@ -369,8 +369,8 @@
   "月": {
     "kanji": "月",
     "readings": {
-      "onyomi": [],
-      "kunyomi": []
+      "onyomi": ["ゲツ", "がつ"],
+      "kunyomi": ["つき"]
     },
     "meanings": {
       "FR": [
@@ -1338,8 +1338,8 @@
   "火": {
     "kanji": "火",
     "readings": {
-      "onyomi": [],
-      "kunyomi": []
+      "onyomi": ["カ"],
+      "kunyomi": ["ひ"]
     },
     "meanings": {
       "FR": [
@@ -1438,12 +1438,12 @@
   "金": {
     "kanji": "金",
     "readings": {
-      "onyomi": [],
-      "kunyomi": []
+      "onyomi": ["キン"],
+      "kunyomi": ["かね"]
     },
     "meanings": {
       "FR": [
-        "or"
+        "or", "argent", "métal"
       ]
     },
     "elements": {
@@ -1738,8 +1738,8 @@
   "水": {
     "kanji": "水",
     "readings": {
-      "onyomi": [],
-      "kunyomi": []
+      "onyomi": ["スイ"],
+      "kunyomi": ["みず"]
     },
     "meanings": {
       "FR": [
@@ -1888,7 +1888,7 @@
   "天": {
     "kanji": "天",
     "readings": {
-      "onyomi": [],
+      "onyomi": ["テン"],
       "kunyomi": []
     },
     "meanings": {
@@ -1913,13 +1913,14 @@
   "土": {
     "kanji": "土",
     "readings": {
-      "onyomi": [],
-      "kunyomi": []
+      "onyomi": ["ド"],
+      "kunyomi": ["つち"]
     },
     "meanings": {
       "FR": [
-        "sol", "terre"
-      ]
+        "terre"
+      ],
+      "EN": ["soil"]
     },
     "elements": {
       "FR": [],
@@ -2038,12 +2039,12 @@
   "木": {
     "kanji": "木",
     "readings": {
-      "onyomi": [],
-      "kunyomi": []
+      "onyomi": ["モク"],
+      "kunyomi": ["き"]
     },
     "meanings": {
       "FR": [
-        "arbre"
+        "arbre", "bois"
       ]
     },
     "elements": {
@@ -2084,5 +2085,232 @@
       "EN": ""
     },
     "src": "https://hochanh.github.io/rtk/何/index.html"
+  },
+  "曜": {
+    "kanji": "曜",
+    "readings": {
+      "onyomi": ["ヨウ"],
+      "kunyomi": []
+    },
+    "meanings": {
+      "FR": [
+        "jour de la semaine"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "Tous les jours de la semaine en plein soleil, un paysan doit déplumer un dindon.",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/曜/index.html"
+  },
+  "星": {
+    "kanji": "星",
+    "readings": {
+      "onyomi": ["セエ"],
+      "kunyomi": ["ほし"]
+    },
+    "meanings": {
+      "FR": [
+        "étoile", "planète", "astre"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "Le soleil est l'étoile, la planète qui donne naissance à la vie.",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/曜/index.html"
+  },
+  "太": {
+    "kanji": "太",
+    "readings": {
+      "onyomi": ["タイ"],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": [
+        "dodu"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "Une grande personne avec une grosse goutte de sueur parce qu'elle est dodue.",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/太/index.html"
+  },
+  "陽": {
+    "kanji": "陽",
+    "readings": {
+      "onyomi": ["ヨウ"],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": [
+        "soleil", "ensoleillement"
+      ],
+      "EN": [
+        "sunshine"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": ["pinacle", "tirelire"],
+      "EN": ["pinnacle", "piggy bank"]
+    },
+    "summary": {
+      "FR": "Un enfant est juché sur un pinacle avec sa tirelire. Il utilise les pièces pour attraper le soleil et aveugler les personnes en bas.",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/陽/index.html"
+  },
+  "王": {
+    "kanji": "王",
+    "readings": {
+      "onyomi": ["ノウ", "ノウ"],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": [
+        "roi"
+      ],
+      "EN": [
+        "king"
+      ]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "Un roi est une (一) personne qui dirige la terre (土)",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/王/index.html"
+  },
+  "海": {
+    "kanji": "海",
+    "readings": {
+      "onyomi": ["カイ"],
+      "kunyomi": ["うみ"]
+    },
+    "meanings": {
+      "FR": ["mer"],
+      "EN": ["sea"]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/海/index.html"
+  },
+  "冥": {
+    "kanji": "冥",
+    "readings": {
+      "onyomi": ["メイ"],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["obscurité"],
+      "EN": ["dark"]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/冥/index.html"
+  },
+  "地": {
+    "kanji": "地",
+    "readings": {
+      "onyomi": ["チ"],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["sol"],
+      "EN": ["ground"]
+    },
+    "elements": {
+      "FR": ["terre"],
+      "EN": []
+    },
+    "primitives": {
+      "FR": ["scorpion"],
+      "EN": []
+    },
+    "summary": {
+      "FR": "Le sol est jonché de scorpion et personne n'ose mettre pied à terre.",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/地/index.html"
+  },
+  "球": {
+    "kanji": "球",
+    "readings": {
+      "onyomi": ["キュウ"],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["balle"],
+      "EN": ["ball"]
+    },
+    "elements": {
+      "FR": ["roi", "requête"],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [""],
+      "EN": []
+    },
+    "summary": {
+      "FR": "Le roi requiert votre présence au jeu de balle.",
+      "EN": "The king requests your presence at the ball game."
+    },
+    "src": "https://hochanh.github.io/rtk/球/index.html"
   }
 }
