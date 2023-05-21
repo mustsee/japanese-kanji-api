@@ -110,7 +110,7 @@ const decksList = [
   "id": "date",
   "folder": "other",
   "name": "Date",
-  "method": "Ohter"
+  "method": "Other"
  }
 ]
 
