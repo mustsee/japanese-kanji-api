@@ -2023,7 +2023,7 @@
       ]
     },
     "elements": {
-      "FR": [],
+      "FR": ["soirée", "bouche"],
       "EN": []
     },
     "primitives": {
@@ -2312,5 +2312,125 @@
       "EN": "The king requests your presence at the ball game."
     },
     "src": "https://hochanh.github.io/rtk/球/index.html"
+  },
+  "外": {
+    "kanji": "外",
+    "readings": {
+      "onyomi": [""],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["extérieur"],
+      "EN": ["outside"]
+    },
+    "elements": {
+      "FR": ["soirée"],
+      "EN": []
+    },
+    "primitives": {
+      "FR": ["baguette magique"],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/外/index.html"
+  },
+  "間": {
+    "kanji": "間",
+    "readings": {
+      "onyomi": [""],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["intervalle"],
+      "EN": [""]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/間/index.html"
+  },
+  "午": {
+    "kanji": "午",
+    "readings": {
+      "onyomi": [""],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["midi"],
+      "EN": ["noon"]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/午/index.html"
+  },
+  "後": {
+    "kanji": "後",
+    "readings": {
+      "onyomi": [""],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["derrière"],
+      "EN": ["behind"]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/後/index.html"
+  },
+  "語": {
+    "kanji": "語",
+    "readings": {
+      "onyomi": [""],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["mot"],
+      "EN": ["word"]
+    },
+    "elements": {
+      "FR": ["dire"],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/語/index.html"
   }
 }
