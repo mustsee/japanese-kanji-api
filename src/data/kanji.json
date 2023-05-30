@@ -2432,5 +2432,125 @@
       "EN": ""
     },
     "src": "https://hochanh.github.io/rtk/語/index.html"
+  },
+  "行": {
+    "kanji": "行",
+    "readings": {
+      "onyomi": [""],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["aller"],
+      "EN": ["going"]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/行/index.html"
+  },
+  "高": {
+    "kanji": "高",
+    "readings": {
+      "onyomi": [""],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["haut"],
+      "EN": ["tall"]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/高/index.html"
+  },
+  "国": {
+    "kanji": "国",
+    "readings": {
+      "onyomi": [""],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["pays"],
+      "EN": ["country"]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/国/index.html"
+  },
+  "今": {
+    "kanji": "今",
+    "readings": {
+      "onyomi": [""],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["maintenant"],
+      "EN": ["now"]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/今/index.html"
+  },
+  "時": {
+    "kanji": "時",
+    "readings": {
+      "onyomi": [""],
+      "kunyomi": [""]
+    },
+    "meanings": {
+      "FR": ["temps", "heure"],
+      "EN": ["time"]
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "primitives": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/時/index.html"
   }
 }
