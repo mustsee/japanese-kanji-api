@@ -74,7 +74,7 @@ const otherDecks = {
   } ,
   "tsubasa": {
     "name": "Tsubasa",
-    "kanji": getKanji(["寒", "兄", "弟", "左", "右"]),
+    "kanji": getKanji(["寒", "左", "右"]),
     "method": "tsubasa"
   }
 }
