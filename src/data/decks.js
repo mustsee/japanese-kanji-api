@@ -71,7 +71,12 @@ const otherDecks = {
     */
     "kanji": getKanji(["日", "月", "火", "水", "木", "金", "土", "曜", "太", "陽", "天", "海", "冥", "王", "地", "球", "星"]),
     "method": "other"
-  } 
+  } ,
+  "tsubasa": {
+    "name": "Tsubasa",
+    "kanji": getKanji(["寒", "兄", "弟", "左", "右"]),
+    "method": "tsubasa"
+  }
 }
 
 const decksList = [

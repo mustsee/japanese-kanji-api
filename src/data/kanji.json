@@ -1,4 +1,21 @@
 {
+  "寒": {
+    "kanji": "寒",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": [
+        {
+          "reading": "さむ",
+          "romaji": "samu"
+        }
+      ]
+    },
+    "meanings": {
+      "FR": [
+        "froid"
+      ]
+    }
+  },
   "一": {
     "kanji": "一",
     "readings": {
