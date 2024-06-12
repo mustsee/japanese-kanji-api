@@ -13,18 +13,42 @@
     "meanings": {
       "FR": [
         "petit frère"
-      ],
-      "EN": []
+      ]
+    }
+  },
+  "兄": {
+    "kanji": "兄",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": [
+        {
+          "reading": "あに",
+          "romaji": "ani"
+        }
+      ]
     },
-    "elements": {
-      "FR": [],
-      "EN": []
+    "meanings": {
+      "FR": [
+        "grand frère"
+      ]
+    }
+  },
+  "寒": {
+    "kanji": "寒",
+    "readings": {
+      "onyomi": [],
+      "kunyomi": [
+        {
+          "reading": "さむ",
+          "romaji": "samu"
+        }
+      ]
     },
-    "summary": {
-      "FR": "",
-      "EN": ""
-    },
-    "src": "https://hochanh.github.io/rtk/弟/index.html"
+    "meanings": {
+      "FR": [
+        "froid"
+      ]
+    }
   },
   "一": {
     "kanji": "一",
@@ -1265,7 +1289,12 @@
     "kanji": "右",
     "readings": {
       "onyomi": [],
-      "kunyomi": []
+      "kunyomi": [
+        {
+          "reading": "みぎ",
+          "romaji": "migi"
+        }
+      ]
     },
     "meanings": {
       "FR": [
@@ -1541,7 +1570,12 @@
     "kanji": "左",
     "readings": {
       "onyomi": [],
-      "kunyomi": []
+      "kunyomi": [
+        {
+          "reading": "ひだり",
+          "romaji": "hidari"
+        }
+    ]
     },
     "meanings": {
       "FR": [
