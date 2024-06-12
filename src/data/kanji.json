@@ -10,6 +10,14 @@
         "petit frère"
       ]
     },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
     "src": "https://hochanh.github.io/rtk/弟/index.html"
   },
   "兄": {
@@ -23,12 +31,19 @@
         "grand frère"
       ]
     },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
     "src": "https://hochanh.github.io/rtk/兄/index.html"
   },
   "寒": {
     "kanji": "寒",
     "readings": {
-      "onyomi": [],
       "kunyomi": ["さむ"]
     },
     "meanings": {
