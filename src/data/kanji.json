@@ -1,20 +1,30 @@
 {
-  "寒": {
-    "kanji": "寒",
+  "弟": {
+    "kanji": "弟",
     "readings": {
       "onyomi": [],
       "kunyomi": [
         {
-          "reading": "さむ",
-          "romaji": "samu"
+          "reading": "おとうと",
+          "romaji": "ani"
         }
       ]
     },
     "meanings": {
       "FR": [
-        "froid"
-      ]
-    }
+        "petit frère"
+      ],
+      "EN": []
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/弟/index.html"
   },
   "一": {
     "kanji": "一",
