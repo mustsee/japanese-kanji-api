@@ -118,6 +118,12 @@ const decksList = [
   "folder": "other",
   "name": "Date",
   "method": "Other"
+ },
+ {
+  "id": "tsubasa",
+  "folder": "other",
+  "name": "Tsubasa",
+  "method": "Tsubasa"
  }
 ]
 
