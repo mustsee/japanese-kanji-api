@@ -14,7 +14,16 @@
       "FR": [
         "petit frère"
       ]
-    }
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/弟/index.html"
   },
   "兄": {
     "kanji": "兄",
@@ -31,7 +40,16 @@
       "FR": [
         "grand frère"
       ]
-    }
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/兄/index.html"
   },
   "寒": {
     "kanji": "寒",
@@ -48,7 +66,16 @@
       "FR": [
         "froid"
       ]
-    }
+    },
+    "elements": {
+      "FR": [],
+      "EN": []
+    },
+    "summary": {
+      "FR": "",
+      "EN": ""
+    },
+    "src": "https://hochanh.github.io/rtk/寒/index.html"
   },
   "一": {
     "kanji": "一",
